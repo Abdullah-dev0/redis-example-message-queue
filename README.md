@@ -20,7 +20,7 @@ This repository demonstrates a basic implementation of a messaging queue using R
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/redis-messaging-queue.git
+    git clone https://github.com/Abdullah-dev0/redis-example-message-queue.git
     cd redis-messaging-queue
     ```
 
@@ -55,8 +55,9 @@ This repository demonstrates a basic implementation of a messaging queue using R
 1. **Run the application:**
 
     ```bash
-    
     tsc -b 
-    node dist
     ```
+    ```bash
+     node dist
+     ```
 
