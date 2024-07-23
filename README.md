@@ -21,7 +21,6 @@ This repository demonstrates a basic implementation of a messaging queue using R
 
     ```bash
     git clone https://github.com/Abdullah-dev0/redis-example-message-queue.git
-    cd redis-messaging-queue
     ```
 
 2. **Install dependencies:**
